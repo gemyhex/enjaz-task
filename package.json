@@ -1,0 +1,31 @@
+{
+  "name": "enjaz-task",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "axios": "^1.7.7",
+    "fiber": "^1.0.4",
+    "sass-loader": "^16.0.2",
+    "sweetalert2": "^11.14.1",
+    "vue": "^3.4.37",
+    "vue-router": "^4.4.5",
+    "vuetify": "^3.7.0-beta.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "sass": "^1.79.3",
+    "sass-embedded": "^1.79.3",
+    "tailwindcss": "^3.4.13",
+    "vite": "^5.4.1",
+    "vite-plugin-sass": "^0.1.0"
+  }
+}
